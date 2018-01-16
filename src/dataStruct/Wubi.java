@@ -1,4 +1,5 @@
-package com.haiyang.j2se;
+package dataStruct;
+
 import java.util.Scanner;
 
 /**
