@@ -38,4 +38,9 @@ jvm_quickStart
   程序正常执行结束
   程序在执行过程中遇到了异常或错误而异常终止
   由于操作系统出现错误而导致Java虚拟机进程终止
+  
+  ----------------------------------------------------------------------
+  fastjson和jackson的简单总结：
+  fastjson: 带有"{"是对象（jsonobject），带有"["是数组(jsonarray); 对象的解析用get或getstring ,数组解析用iterator。
+  jackson: 带有"{"是对象 ，带有"["是数组对象；一般desirialized为具有层次结构的javabeen.
 
