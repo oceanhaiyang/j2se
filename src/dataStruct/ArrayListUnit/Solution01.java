@@ -1,5 +1,9 @@
 package dataStruct.ArrayListUnit;
 
+/**
+ *  Time complexity : O(L).
+    Space complexity : O(1). We only used constant extra space.
+ */
 public class Solution01 {
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummyHead = new ListNode(0);
@@ -12,7 +16,7 @@ public class Solution01 {
             carry = sum / 10;
             curr.next = new ListNode(sum % 10);
             curr = curr.next;//当前节点的值
-            if (p != null) p = p.next;
+            if (p != null) p = p.next;//循环条件
             if (q != null) q = q.next;
         }
         if (carry > 0) {
