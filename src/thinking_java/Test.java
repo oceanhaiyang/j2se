@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Test{
     public static void main(String[] args) {
-        Map<String, String> map = new HashMap<String, String>();
+        Map<String, String> map = new HashMap<>();
         map.put("1", "value1");
         map.put("2", "value2");
         map.put("3", "value3");
