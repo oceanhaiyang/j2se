@@ -1,18 +1,25 @@
-﻿package com.haiyang.j2se;
+package dataStruct;
+
 import java.util.Scanner;
 
-/**
- * 五笔的字典序列
+
+
+
+/** 五笔的字典序列
  * Created by lhy on 2017/7/6.
  */
+
+
+
 public class Tencent01 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String b = in.next();
-        int res = codeindex(b);
+        Tencent01 tt = new Tencent01();
+        int res = tt.codeindex(b);
         System.out.println(res);
     }
-    public static int codeindex(String code) {
+    public  int codeindex(String code) {
         int factor[] = {1+25+25*25+25*25*25, 1+25+25*25, 1+25, 1};//权重数组
         char[] codearr = code.toCharArray();//把字符串转为字符数组
         int index = 0;
@@ -23,5 +30,7 @@ public class Tencent01 {
         return index + (len - 1);
     }
 
-    }
+}
+
+
 

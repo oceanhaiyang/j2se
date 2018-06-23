@@ -1,4 +1,5 @@
-package com.haiyang.j2se;
+package dataStruct;
+
 import java.util.*;
 /**
  * Created by lhy on 2017/7/10.
@@ -9,7 +10,7 @@ public static void main(String[] args) {
     int i = scanner.nextInt();
     System.out.println(findPrimePair(i));
 }
-//Í¨¹ý±éÀú£¬ÕÒµ½Âú×ãµÄÖÊÊý¶Ô
+//Í¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 private static int findPrimePair(int sum) {
     if (sum <= 3) { return 0; }
     int count=0;
@@ -22,7 +23,7 @@ private static int findPrimePair(int sum) {
         }
     } return count;
 }
-//ÅÐ¶ÏÊäÈëµÄÊýÊÇ·ñÎªÖÊÊý
+//ï¿½Ð¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç·ï¿½Îªï¿½ï¿½ï¿½ï¿½
 private static boolean isPrime(int i) {
     for (double j = 2; j <= Math.sqrt(i); j++) {
         if (i % j == 0)
