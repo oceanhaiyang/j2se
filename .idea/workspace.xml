@@ -2,111 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="388530df-a3b9-406e-8ca7-690e9361a289" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/AddBinary.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution02.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution03.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution04.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution05$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution05.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution06.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution07.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution08.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution09.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution16.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution17.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/CountDuplicatedList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/CountandSay.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/FindPrimePair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/FourSum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/Tencent01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/ToJsonDemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dataStruct/Wubi.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/extStruct/ExtHashMap$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/extStruct/ExtHashMap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/extStruct/ExtMap$Entry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/extStruct/ExtMap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/extStruct/TestMap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/jvm_quickStart/ClassLoaderTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/jvm_quickStart/MyClassLoader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/jvm_quickStart/Test2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/jvm_quickStart/loaderTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/A.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/Animal1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/B.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/C.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/D.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/Dfs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/Dfs02.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/Shudu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/Solution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/Solution02.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/Solution03.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/Stock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/thinking_java/jiugongge.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ppp.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/AddBinary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/ListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution03.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution04.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution05.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution06.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution07.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution08.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution09.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution14.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution16.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution17.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/CountDuplicatedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/CountandSay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/FourSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataStruct/ToJsonDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/extStruct/ExtHashMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/extStruct/ExtMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/extStruct/TestMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jvm_quickStart/ClassLoaderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jvm_quickStart/MyClassLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jvm_quickStart/loaderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/thinking_java/Animal1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/thinking_java/Dfs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/thinking_java/Dfs02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/thinking_java/Shudu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/thinking_java/Stock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/thinking_java/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/thinking_java/jiugongge.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dataStruct/TestDemo01.class" afterPath="$PROJECT_DIR$/bin/dataStruct/TestDemo01.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dataStruct/josephus.class" afterPath="$PROJECT_DIR$/bin/dataStruct/josephus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dataStruct/stringDemo.class" afterPath="$PROJECT_DIR$/bin/dataStruct/stringDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dataStruct/test01.class" afterPath="$PROJECT_DIR$/bin/dataStruct/test01.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dataStruct/test02.class" afterPath="$PROJECT_DIR$/bin/dataStruct/test02.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/j2se.iml" afterPath="$PROJECT_DIR$/j2se.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dataStruct/FindPrimePair.java" afterPath="$PROJECT_DIR$/src/dataStruct/FindPrimePair.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dataStruct/Tencent01.java" afterPath="$PROJECT_DIR$/src/dataStruct/Tencent01.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dataStruct/Wubi.java" afterPath="$PROJECT_DIR$/src/dataStruct/Wubi.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dataStruct/josephus.java" afterPath="$PROJECT_DIR$/src/dataStruct/josephus.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -192,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/src/thinking_java/Shudu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -334,8 +230,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -740,6 +636,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -868,6 +765,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -948,11 +851,12 @@
       <workItem from="1529646148708" duration="389000" />
       <workItem from="1529711477757" duration="1606000" />
       <workItem from="1529722818961" duration="104000" />
+      <workItem from="1529723652618" duration="189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111335000" />
+    <option name="totallyTimeSpent" value="111524000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -974,20 +878,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14437869" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3195266" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14437869" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39788198" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40393344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30769232" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30769232" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1384,7 +1288,7 @@
     <entry file="file://$PROJECT_DIR$/src/thinking_java/Shudu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding />
         </state>
       </provider>
