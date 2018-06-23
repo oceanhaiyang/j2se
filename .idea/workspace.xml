@@ -1,67 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="388530df-a3b9-406e-8ca7-690e9361a289" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/AddBinary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution03.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution04.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution05$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution05.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution06.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution07.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution08.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution09.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/CountDuplicatedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/CountandSay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/FindPrimePair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/FourSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/Tencent01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/TestDemo01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ToJsonDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/Wubi.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/josephus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/stringDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/test01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/test02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/extStruct/ExtHashMap$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/extStruct/ExtHashMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/extStruct/ExtMap$Entry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/extStruct/ExtMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/extStruct/TestMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/jvm_quickStart/ClassLoaderTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/jvm_quickStart/MyClassLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/jvm_quickStart/Test2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/jvm_quickStart/loaderTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Animal1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/C.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/D.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Dfs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Dfs02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Shudu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Solution02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Solution03.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Stock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/jiugongge.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="388530df-a3b9-406e-8ca7-690e9361a289" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -910,12 +850,12 @@
       <workItem from="1529646148708" duration="389000" />
       <workItem from="1529711477757" duration="1606000" />
       <workItem from="1529722818961" duration="104000" />
-      <workItem from="1529723652618" duration="705000" />
+      <workItem from="1529723652618" duration="777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112040000" />
+    <option name="totallyTimeSpent" value="112112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
