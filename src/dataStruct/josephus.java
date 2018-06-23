@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public class josephus {
     public static void main(String[] args) {
     	int n = 9, k = 1, m = 5 ;
-    	ArrayList<Integer> list=new ArrayList<Integer>(n);
+    	ArrayList<Integer> list=new ArrayList<>(n);
     	//初始化一些数据
 	    for(int i=1;i<=n;i++){
 	    list.add(i);
