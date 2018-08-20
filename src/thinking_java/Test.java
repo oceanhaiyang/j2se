@@ -22,6 +22,11 @@ public class Test{
             System.out.println("key= " + entry.getKey() + " and value= " + entry.getValue());
         }*/
 
+        ThreadLocal local = new ThreadLocal();
+        local.set("faaf");
+        Thread01 thread01 = new Thread01(local);
+        thread01.start();
+        System.out.println("- -- --"+" "+local.get());
 
     }
 }
