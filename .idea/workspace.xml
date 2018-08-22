@@ -2,65 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="388530df-a3b9-406e-8ca7-690e9361a289" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/AddBinary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution03.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution04.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution05$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution05.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution06.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution07.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution08.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution09.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/Solution17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ArrayListUnit/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/CountDuplicatedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/CountandSay.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/FindPrimePair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/FourSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/Tencent01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/TestDemo01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/ToJsonDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/Wubi.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/josephus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/stringDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/test01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/dataStruct/test02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/extStruct/ExtHashMap$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/extStruct/ExtHashMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/extStruct/ExtMap$Entry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/extStruct/ExtMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/extStruct/TestMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/jvm_quickStart/ClassLoaderTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/jvm_quickStart/MyClassLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/jvm_quickStart/Test2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/jvm_quickStart/loaderTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Animal1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/C.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/D.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Dfs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Dfs02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Shudu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Solution02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Solution03.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Stock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thinking_java/jiugongge.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/thinking_java/Test.java" afterPath="$PROJECT_DIR$/src/thinking_java/Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,11 +39,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StrtoInt.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StrtoInt.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thinking_java/StrtoInt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
-              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecodeWays061.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dataStruct/ArrayListUnit/DecodeWays061.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -147,31 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="josephus.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dataStruct/josephus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Shudu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thinking_java/Shudu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dfs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thinking_java/Dfs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -253,6 +195,7 @@
         <option value="$PROJECT_DIR$/src/thinking_java/UniqueArray.java" />
         <option value="$PROJECT_DIR$/src/thinking_java/ListNodeTest.java" />
         <option value="$PROJECT_DIR$/src/thinking_java/StrtoInt.java" />
+        <option value="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/DecodeWays061.java" />
       </list>
     </option>
   </component>
@@ -286,6 +229,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -312,22 +258,64 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="j2se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="j2se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataStruct" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="j2se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="j2se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataStruct" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArrayListUnit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/app/prime-desktop" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\j2se\src\dataStruct\ArrayListUnit" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -903,11 +891,12 @@
       <workItem from="1531463577506" duration="1767000" />
       <workItem from="1533399509439" duration="970000" />
       <workItem from="1534809276887" duration="72000" />
+      <workItem from="1534948076540" duration="128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125243000" />
+    <option name="totallyTimeSpent" value="125371000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -920,6 +909,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -935,7 +925,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23676248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24054463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1027,7 +1017,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Arrays.java" />
     <entry file="file://$USER_HOME$/Documents/WeChat Files/lyuhaiyang/Files/车容易2期开发模型设计(1).md" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/thinking_java/Lists.java" />
@@ -1192,13 +1181,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dataStruct/ArrayListUnit/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -1345,7 +1327,23 @@
     <entry file="file://$PROJECT_DIR$/src/thinking_java/StrtoInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataStruct/ArrayListUnit/DecodeWays061.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="17" />
           <folding />
         </state>
       </provider>
