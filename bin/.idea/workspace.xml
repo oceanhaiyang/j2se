@@ -19,16 +19,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="StringToInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string/StringToInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="59" lean-forward="false" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ZigZagConversion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/ZigZagConversion.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,7 +87,7 @@
       <file leaf-file-name="SimplifyPath.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/SimplifyPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
+            <state relative-caret-position="525">
               <caret line="27" column="74" lean-forward="false" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -106,11 +96,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PermutationInString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PermutationInString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/PermutationInString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="84">
+              <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidPalindromeII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/string/ValidPalindromeII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-126">
+              <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -152,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution12.java" />
         <option value="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/ListNode.java" />
         <option value="$PROJECT_DIR$/src/dataStruct/ArrayListUnit/Solution13.java" />
@@ -203,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/string/ValidPalindrome.java" />
         <option value="$PROJECT_DIR$/src/string/SimplifyPath.java" />
         <option value="$PROJECT_DIR$/src/string/PermutationInString.java" />
+        <option value="$PROJECT_DIR$/src/string/ValidPalindromeII.java" />
       </list>
     </option>
   </component>
@@ -254,7 +254,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -311,6 +310,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -340,27 +340,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PermutationInString">
-    <configuration default="false" name="ExcelSheetColumnNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="string.ExcelSheetColumnNumber" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="j2se" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ValidPalindromeII">
     <configuration default="false" name="CompareVersionNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -429,6 +409,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="string.PermutationInString" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="j2se" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ValidPalindromeII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="string.ValidPalindromeII" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -829,19 +829,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ExcelSheetColumnNumber" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CompareVersionNumbers" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ValidPalindrome" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SimplifyPath" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PermutationInString" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CompareVersionNumbers" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ValidPalindrome" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SimplifyPath" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PermutationInString" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ValidPalindromeII" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PermutationInString" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SimplifyPath" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ValidPalindrome" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CompareVersionNumbers" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ExcelSheetColumnNumber" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ValidPalindromeII" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PermutationInString" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SimplifyPath" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ValidPalindrome" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CompareVersionNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -916,12 +916,13 @@
       <workItem from="1535987286262" duration="461000" />
       <workItem from="1536072672336" duration="1523000" />
       <workItem from="1536160830722" duration="243000" />
-      <workItem from="1536245132572" duration="649000" />
+      <workItem from="1536245132572" duration="1301000" />
+      <workItem from="1536420467338" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143186000" />
+    <option name="totallyTimeSpent" value="143889000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -933,7 +934,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -950,7 +951,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2881997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2927383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1042,13 +1043,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dataStruct/CountDuplicatedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dataStruct/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1015">
@@ -1315,9 +1309,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1337,14 +1328,6 @@
             <element signature="imports" expanded="true" />
             <element signature="method#convert#0;class#ZigZagConversion#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3066">
-          <caret line="169" column="16" lean-forward="false" selection-start-line="169" selection-start-column="16" selection-end-line="169" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1392,7 +1375,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/string/SimplifyPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="525">
           <caret line="27" column="74" lean-forward="false" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1400,10 +1383,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3066">
+          <caret line="169" column="16" lean-forward="false" selection-start-line="169" selection-start-column="16" selection-end-line="169" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/PermutationInString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="84">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string/ValidPalindromeII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
           <folding />
         </state>
       </provider>
