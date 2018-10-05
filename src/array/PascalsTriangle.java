@@ -16,33 +16,30 @@ import java.util.List;
  */
 public class PascalsTriangle {
     public static void main(String[] args) throws Exception {
-        System.out.println(new PascalsTriangle().getRow(4));
+        System.out.println(new PascalsTriangle().generate(4));
     }
-
-    public List<Integer> getRow(int rowIndex) {
-        int k = rowIndex;
-        if (k == 0)
-            return Arrays.asList(1);
-        else if (k == 1)
-            return Arrays.asList(1, 1);
-        else if (k == 2)
-            return Arrays.asList(1, 2, 1);
-        List<Integer> result = new ArrayList<>();
-        result.add(2);
-        k = k - 2;
-        int p, c;
-        while (k-- > 0) {
-            p = 1;
-            int i = 0;
-            for (int l = result.size(); i < l; i++) {
-                c = result.get(i);
-                result.set(i, p + c);
-                p = c;
+    /*public List<Integer> getRow(int rowIndex) {
+        List<Integer> res = new ArrayList<>();
+        if (rowIndex < 0) return res;
+        for (int i = 0; i < rowIndex + 1; i++) {
+            res.add(0, 1);
+            for (int j = 1; j < res.size() - 1; j++) {
+                res.set(j, res.get(j) + res.get(j + 1));
             }
-            result.add(p + 1);
         }
-        result.add(0, 1);
-        result.add(1);
-        return result;
+        return res;
+    }*/
+
+    public List<List<Integer>> generate(int numRows) {
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+        for (int i = 0; i < numRows; i++) {
+            list.add(0, 1);
+            for (int j = 1; j < list.size() - 1; j++) {
+                list.set(j, list.get(j) + list.get(j + 1));
+            }
+            res.add(new ArrayList<>(list));
+        }
+        return res;
     }
 }
