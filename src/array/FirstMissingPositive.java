@@ -13,7 +13,7 @@ public class FirstMissingPositive {
     private int L;
 
     public static void main(String[] args) throws Exception {
-        int[] nums = {1, 3, 5, 9};
+        int[] nums = {1, 3, 5,2, 9};
         System.out.println(new FirstMissingPositive().firstMissingPositive(nums));
     }
 
