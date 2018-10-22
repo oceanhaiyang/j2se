@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="388530df-a3b9-406e-8ca7-690e9361a289" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="388530df-a3b9-406e-8ca7-690e9361a289" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,16 +25,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="FirstMissingPositive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/FirstMissingPositive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MaxProductOfThreeNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/MaxProductOfThreeNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,11 +97,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MeetingRooms.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MeetingRooms.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/MeetingRooms.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="235">
               <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestIncreasingSubsequence.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/array/LongestIncreasingSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -160,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/string/ZigZagConversion.java" />
         <option value="$PROJECT_DIR$/src/string/TextJustification.java" />
         <option value="$PROJECT_DIR$/src/string/ImplementStrStr.java" />
         <option value="$PROJECT_DIR$/src/string/ExcelSheetColumnNumber.java" />
@@ -211,6 +208,7 @@
         <option value="$PROJECT_DIR$/src/array/BattleshipsInABoard.java" />
         <option value="$PROJECT_DIR$/src/array/FindTheCelebrity.java" />
         <option value="$PROJECT_DIR$/src/array/MeetingRooms.java" />
+        <option value="$PROJECT_DIR$/src/array/LongestIncreasingSubsequence.java" />
       </list>
     </option>
   </component>
@@ -388,27 +386,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MeetingRooms">
-    <configuration default="false" name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="array.RotateArray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="j2se" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.LongestIncreasingSubsequence">
     <configuration default="false" name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -477,6 +455,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="array.MeetingRooms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="j2se" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="array.LongestIncreasingSubsequence" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -877,19 +875,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RotateArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SortColors" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BattleshipsInABoard" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FindTheCelebrity" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MeetingRooms" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SortColors" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BattleshipsInABoard" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FindTheCelebrity" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MeetingRooms" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MeetingRooms" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FindTheCelebrity" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BattleshipsInABoard" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SortColors" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RotateArray" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MeetingRooms" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FindTheCelebrity" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BattleshipsInABoard" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SortColors" />
       </list>
     </recent_temporary>
   </component>
@@ -1003,12 +1001,12 @@
       <workItem from="1540047517011" duration="302000" />
       <workItem from="1540091253619" duration="1211000" />
       <workItem from="1540133249648" duration="945000" />
-      <workItem from="1540219089343" duration="279000" />
+      <workItem from="1540219089343" duration="970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174144000" />
+    <option name="totallyTimeSpent" value="174835000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1131,13 +1129,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/string/ExcelSheetColumnNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="71" lean-forward="false" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/CompareVersionNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1479,6 +1470,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/LongestIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="41" />
           <folding />
         </state>
       </provider>
