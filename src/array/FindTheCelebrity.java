@@ -27,6 +27,7 @@ public class FindTheCelebrity {
      */
     public static void main(String[] args) {
         //initialize relationship
+        
         map.put(0, new HashSet<>());
         map.put(1, new HashSet<>());
         map.put(2, new HashSet<>());
