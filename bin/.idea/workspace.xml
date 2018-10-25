@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="388530df-a3b9-406e-8ca7-690e9361a289" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/array/FindTheCelebrity.java" afterPath="$PROJECT_DIR$/src/array/FindTheCelebrity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,7 +80,7 @@
       <file leaf-file-name="FindTheCelebrity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/FindTheCelebrity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="546">
               <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -89,10 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximumSwap.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaximumSwap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/MaximumSwap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
+            <state relative-caret-position="254">
+              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HIndex.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/array/HIndex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-189">
               <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
@@ -140,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/string/ExcelSheetColumnNumber.java" />
         <option value="$PROJECT_DIR$/src/string/CompareVersionNumbers.java" />
         <option value="$PROJECT_DIR$/src/string/ValidPalindrome.java" />
         <option value="$PROJECT_DIR$/src/string/SimplifyPath.java" />
@@ -191,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/array/SparseMatrixMultiplication.java" />
         <option value="$PROJECT_DIR$/src/array/FindTheCelebrity.java" />
         <option value="$PROJECT_DIR$/src/array/MaximumSwap.java" />
+        <option value="$PROJECT_DIR$/src/array/HIndex.java" />
       </list>
     </option>
   </component>
@@ -240,7 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -335,6 +344,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -368,27 +378,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaximumSwap">
-    <configuration default="false" name="FindTheCelebrity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="array.FindTheCelebrity" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="j2se" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.HIndex">
     <configuration default="false" name="MeetingRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -457,6 +447,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="array.MaximumSwap" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="j2se" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="HIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="array.HIndex" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -857,19 +867,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FindTheCelebrity" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MeetingRooms" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SparseMatrixMultiplication" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MaximumSwap" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MeetingRooms" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SparseMatrixMultiplication" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MaximumSwap" />
+      <item index="4" class="java.lang.String" itemvalue="Application.HIndex" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MaximumSwap" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SparseMatrixMultiplication" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MeetingRooms" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FindTheCelebrity" />
+        <item index="0" class="java.lang.String" itemvalue="Application.HIndex" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MaximumSwap" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SparseMatrixMultiplication" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LongestIncreasingSubsequence" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MeetingRooms" />
       </list>
     </recent_temporary>
   </component>
@@ -985,12 +995,13 @@
       <workItem from="1540133249648" duration="945000" />
       <workItem from="1540219089343" duration="1119000" />
       <workItem from="1540307256819" duration="170000" />
-      <workItem from="1540391547622" duration="649000" />
+      <workItem from="1540391547622" duration="2653000" />
+      <workItem from="1540478332967" duration="565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175810000" />
+    <option name="totallyTimeSpent" value="178379000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1014,12 +1025,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3180328" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30983606" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16065574" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19288956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19591528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1099,7 +1110,7 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="50" />
+      <option name="time" value="51" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1113,13 +1124,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/string/SimplifyPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="27" column="74" lean-forward="false" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/PermutationInString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1428,7 +1432,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/FindTheCelebrity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="546">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1459,7 +1463,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/MaximumSwap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
+        <state relative-caret-position="254">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/HIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
           <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
           <folding />
         </state>
