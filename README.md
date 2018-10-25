@@ -3,7 +3,7 @@
 - [BattleshipsInABoard.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/BattleshipsInABoard.java)  
 思路：n个排在一列的算一个，m个排在一行的算一个，m个排在一行和n个排在一列的有空格
 
-- [HIndex.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/HIndex.java)
+- [HIndex.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/HIndex.java)  
  tip: `` while (res < citations.length && citations[citations.length - 1 - res] > res) {
             res++;
         }``
