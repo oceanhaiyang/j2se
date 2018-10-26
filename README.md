@@ -7,7 +7,7 @@
  tip: `` while (res < citations.length && citations[citations.length - 1 - res] > res) {
             res++;
         }``  
- - [CanPlaceFlowers](https://github.com/oceanhaiyang/j2se/blob/master/src/array/CanPlaceFlowers.java)
+ - [CanPlaceFlowers.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/CanPlaceFlowers.java)
     
 ### jvm_quickStart
 
