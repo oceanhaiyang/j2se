@@ -6,7 +6,9 @@
 - [HIndex.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/HIndex.java)  
  tip: `` while (res < citations.length && citations[citations.length - 1 - res] > res) {
             res++;
-        }``
+        }``  
+ - [](https://github.com/oceanhaiyang/j2se/blob/master/src/array/CanPlaceFlowers.java)
+    
 ### jvm_quickStart
 
 1.类的生命周期
