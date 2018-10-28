@@ -10,7 +10,7 @@
  - [CanPlaceFlowers.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/CanPlaceFlowers.java)  
  - [InsertInterval.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/InsertInterval.java)  
  思路: 无交集时直接加入到新的集合,有交集时取首尾的节点  
- - [](https://github.com/oceanhaiyang/j2se/blob/master/src/array/IncreasingTripletSubsequence.java)
+ - [IncreasingTripletSubsequence.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/IncreasingTripletSubsequence.java)
     
 ### jvm_quickStart
 
