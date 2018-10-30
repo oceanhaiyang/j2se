@@ -12,7 +12,8 @@
  思路: 无交集时直接加入到新的集合,有交集时取首尾的节点  
  - [IncreasingTripletSubsequence.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/IncreasingTripletSubsequence.java)  
  - [KEmptySlots.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/KEmptySlots.java)  
- - [](https://github.com/oceanhaiyang/j2se/blob/master/src/array/SubarraySumEqualsK.java)
+ - [SubarraySumEqualsK.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/SubarraySumEqualsK.java)  
+ tips:preSum+hashmap
 
     
 ### jvm_quickStart
