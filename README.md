@@ -15,6 +15,7 @@
  - [SubarraySumEqualsK.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/SubarraySumEqualsK.java)  
    > tips:preSum+hashmap  
  - [PourWater.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/PourWater.java)
+ 思路：先往左走，在往右走，找到单调递减为止
 
     
 ### jvm_quickStart
