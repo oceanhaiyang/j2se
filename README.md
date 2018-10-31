@@ -14,7 +14,7 @@
  - [KEmptySlots.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/KEmptySlots.java)  
  - [SubarraySumEqualsK.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/SubarraySumEqualsK.java)  
    > tips:preSum+hashmap  
- - [](https://github.com/oceanhaiyang/j2se/blob/master/src/array/PourWater.java)
+ - [PourWater.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/PourWater.java)
 
     
 ### jvm_quickStart
