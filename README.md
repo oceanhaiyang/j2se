@@ -16,6 +16,7 @@
    > tips:preSum+hashmap  
  - [PourWater.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/PourWater.java)  
  思路：先往左走，在往右走，找到单调递减为止  
+ - [](https://github.com/oceanhaiyang/j2se/blob/master/src/array/RelativeRanks.java)
 
     
 ### jvm_quickStart
