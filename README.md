@@ -17,7 +17,9 @@
  - [PourWater.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/PourWater.java)  
  思路：先往左走，在往右走，找到单调递减为止  
  - [RelativeRanks.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/RelativeRanks.java)  
- 思路：将socers和position放入对象链表中，按照scores降序，取得对应的position返回即可
+ 思路：将socers和position放入对象链表中，按照scores降序，取得对应的position返回即可  
+ - [](https://github.com/oceanhaiyang/j2se/blob/master/src/array/NextGreaterElementI.java)  
+ 思路：
 
     
 ### jvm_quickStart
