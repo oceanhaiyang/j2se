@@ -23,7 +23,8 @@
  - [LargestNumberAtLeastTwice.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/LargestNumberAtLeastTwice.java)  
  -[SparseMatrixMultiplication.java
  (https://github.com/oceanhaiyang/j2se/blob/master/src/array/SparseMatrixMultiplication.java)  
- - [](https://github.com/oceanhaiyang/j2se/blob/master/src/array/MinimumMovesToEqualArray.java)
+ - [MinimumMovesToEqualArray.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/MinimumMovesToEqualArray.java)
+ > 
 
     
 ### jvm_quickStart
