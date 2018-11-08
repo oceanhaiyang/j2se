@@ -19,7 +19,10 @@
  - [RelativeRanks.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/RelativeRanks.java)  
  思路：将socers和position放入对象链表中，按照scores降序，取得对应的position返回即可  
  - [NextGreaterElementI.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/NextGreaterElementI.java)   
- 思路：借助hashmap和栈。当栈顶元素大于当前元素时，入栈；当栈顶元素小于当前元素时，说明栈顶元素找到了第一个大于的值，出栈，然后继续出栈直到栈顶元素大于当前元素，将当前元素入栈。
+ 思路：借助hashmap和栈。当栈顶元素大于当前元素时，入栈；当栈顶元素小于当前元素时，说明栈顶元素找到了第一个大于的值，出栈，然后继续出栈直到栈顶元素大于当前元素，将当前元素入栈。  
+ - [LargestNumberAtLeastTwice.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/LargestNumberAtLeastTwice.java)  
+ -[SparseMatrixMultiplication.java
+ (https://github.com/oceanhaiyang/j2se/blob/master/src/array/SparseMatrixMultiplication.java)  
 
     
 ### jvm_quickStart
