@@ -25,7 +25,8 @@
  (https://github.com/oceanhaiyang/j2se/blob/master/src/array/SparseMatrixMultiplication.java)  
  
  - [MinimumMovesToEqualArray.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/MinimumMovesToEqualArray.java)
-   > 思路：先将数组排序，count += nums[j--] - nums[i++];
+   > 思路：先将数组排序，count += nums[j--] - nums[i++];  
+ - [](https://github.com/oceanhaiyang/j2se/blob/master/src/array/MinimumIndexSumOfTwoLists.java)
 
     
 ### jvm_quickStart
