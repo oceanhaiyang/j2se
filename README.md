@@ -27,7 +27,8 @@
  - [MinimumMovesToEqualArray.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/MinimumMovesToEqualArray.java)
    > 思路：先将数组排序，count += nums[j--] - nums[i++];  
  - [MinimumIndexSumOfTwoLists.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/MinimumIndexSumOfTwoLists.java)  
- - [](https://github.com/oceanhaiyang/j2se/blob/master/src/array/CardFilipGame.java)
+ - [CardFilipGame.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/CardFilipGame.java)
+   > 当fronts[i] == backs[i]是, fronts[i]永远不可能成为答案.那答案就从其余里面的数里面选最小的就行.
 
 
     
