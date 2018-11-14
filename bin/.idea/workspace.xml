@@ -70,18 +70,30 @@
       <file leaf-file-name="ImageSmoother.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/ImageSmoother.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="63">
               <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinimumIndexSumOfTwoLists.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MinimumIndexSumOfTwoLists.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/MinimumIndexSumOfTwoLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="210">
+              <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CardFilipGame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/array/CardFilipGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,17 +106,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1554">
               <caret line="97" column="26" lean-forward="false" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubarraySumEqualsK.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/SubarraySumEqualsK.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-              <folding />
+              <folding>
+                <element signature="e#0#3888#0" expanded="false" />
+                <element signature="e#2838#2839#0" expanded="false" />
+                <element signature="e#2872#2873#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,7 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/linkList/SinglyList_reversse.java" />
         <option value="$PROJECT_DIR$/src/linked_list/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/linked_list/SinglyList.java" />
         <option value="$PROJECT_DIR$/src/linked_list/SinglyList_reversse.java" />
@@ -211,6 +216,7 @@
         <option value="$PROJECT_DIR$/src/array/MinimumMovesToEqualArray.java" />
         <option value="$PROJECT_DIR$/src/array/ImageSmoother.java" />
         <option value="$PROJECT_DIR$/src/array/MinimumIndexSumOfTwoLists.java" />
+        <option value="$PROJECT_DIR$/src/array/CardFilipGame.java" />
       </list>
     </option>
   </component>
@@ -260,7 +266,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -355,6 +360,7 @@
       </pane>
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -388,27 +394,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinimumIndexSumOfTwoLists">
-    <configuration default="false" name="NextGreaterElementI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="array.NextGreaterElementI" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="j2se" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.CardFilipGame">
     <configuration default="false" name="LargestNumberAtLeastTwice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -477,6 +463,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="array.MinimumIndexSumOfTwoLists" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="j2se" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CardFilipGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="array.CardFilipGame" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -877,19 +883,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NextGreaterElementI" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LargestNumberAtLeastTwice" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MinimumMovesToEqualArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ImageSmoother" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MinimumIndexSumOfTwoLists" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LargestNumberAtLeastTwice" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MinimumMovesToEqualArray" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ImageSmoother" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MinimumIndexSumOfTwoLists" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CardFilipGame" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MinimumIndexSumOfTwoLists" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ImageSmoother" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MinimumMovesToEqualArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LargestNumberAtLeastTwice" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NextGreaterElementI" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CardFilipGame" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MinimumIndexSumOfTwoLists" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ImageSmoother" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MinimumMovesToEqualArray" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LargestNumberAtLeastTwice" />
       </list>
     </recent_temporary>
   </component>
@@ -1017,12 +1023,13 @@
       <workItem from="1541255821672" duration="640000" />
       <workItem from="1541686730577" duration="2163000" />
       <workItem from="1541773737292" duration="542000" />
-      <workItem from="1541946231970" duration="373000" />
+      <workItem from="1541946231970" duration="923000" />
+      <workItem from="1542205570822" duration="893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196206000" />
+    <option name="totallyTimeSpent" value="197649000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1045,13 +1052,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3180328" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12622951" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3180328" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13770492" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35627836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35627836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1151,7 +1158,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/breadth_first_search.java" />
     <entry file="file://$PROJECT_DIR$/src/string/ShortestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -1430,7 +1436,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1472,7 +1477,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1554">
           <caret line="97" column="26" lean-forward="false" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="e#0#3888#0" expanded="false" />
+            <element signature="e#2838#2839#0" expanded="false" />
+            <element signature="e#2872#2873#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1502,7 +1511,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/ImageSmoother.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="63">
           <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
@@ -1510,8 +1519,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/MinimumIndexSumOfTwoLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="210">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/CardFilipGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
