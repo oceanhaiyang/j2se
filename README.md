@@ -26,7 +26,9 @@
  
  - [MinimumMovesToEqualArray.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/MinimumMovesToEqualArray.java)
    > 思路：先将数组排序，count += nums[j--] - nums[i++];  
- - [MinimumIndexSumOfTwoLists.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/MinimumIndexSumOfTwoLists.java)
+ - [MinimumIndexSumOfTwoLists.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/MinimumIndexSumOfTwoLists.java)  
+ - [](https://github.com/oceanhaiyang/j2se/blob/master/src/array/CardFilipGame.java)
+
 
     
 ### jvm_quickStart
