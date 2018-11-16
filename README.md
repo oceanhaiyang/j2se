@@ -1,5 +1,5 @@
-### leetCode
-#### array
+# leetCode
+## array
 - [BattleshipsInABoard.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/BattleshipsInABoard.java)  
 思路：n个排在一列的算一个，m个排在一行的算一个，m个排在一行和n个排在一列的有空格
 
@@ -29,7 +29,7 @@
  - [MinimumIndexSumOfTwoLists.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/MinimumIndexSumOfTwoLists.java)  
  - [CardFilipGame.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/CardFilipGame.java)
    > 当fronts[i] == backs[i]是, fronts[i]永远不可能成为答案.那答案就从其余里面的数里面选最小的就行.  
- #### dfs
+ ## dfs
  -[](https://github.com/oceanhaiyang/j2se/blob/master/src/depth_first_search/Minesweeper.java)
 
 
