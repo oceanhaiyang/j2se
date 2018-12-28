@@ -1,5 +1,5 @@
-### leetCode
-#### array
+# leetCode
+## array
 - [BattleshipsInABoard.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/BattleshipsInABoard.java)  
 思路：n个排在一列的算一个，m个排在一行的算一个，m个排在一行和n个排在一列的有空格
 
@@ -28,8 +28,10 @@
    > 思路：先将数组排序，count += nums[j--] - nums[i++];  
  - [MinimumIndexSumOfTwoLists.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/MinimumIndexSumOfTwoLists.java)  
  - [CardFilipGame.java](https://github.com/oceanhaiyang/j2se/blob/master/src/array/CardFilipGame.java)
-   > 当fronts[i] == backs[i]是, fronts[i]永远不可能成为答案.那答案就从其余里面的数里面选最小的就行.
-
+   > 当fronts[i] == backs[i]是, fronts[i]永远不可能成为答案.那答案就从其余里面的数里面选最小的就行.  
+ ## dfs
+ - [Minesweeper.java](https://github.com/oceanhaiyang/j2se/blob/master/src/depth_first_search/Minesweeper.java)
+ 计算扫雷游戏点击当前位置后显示结果
 
     
 ### jvm_quickStart
